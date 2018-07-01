@@ -8,7 +8,7 @@
 			"ToggleWrite":["Return", "KeypadEnter", "Space"],
 			"ToggleSprint":["RightShift", "LeftShift"],
             "LeftUp" : "U",
-            "LeftDown" : E",
+            "LeftDown" : "E",
             "RightUp" : "N",
             "RightDown" : "L",
             
