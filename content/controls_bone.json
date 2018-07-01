@@ -1,0 +1,20 @@
+{
+    "language": "bone",
+    "controls": 
+		{
+			"HideMessage":"Tab",
+			"PauseMenu":["Tab", "Escape"],
+			"CancelWord":"Backspace",
+			"ToggleWrite":["Return", "KeypadEnter", "Space"],
+			"ToggleSprint":["RightShift", "LeftShift"],
+            "LeftUp" : "U",
+            "LeftDown" : E",
+            "RightUp" : "N",
+            "RightDown" : "L",
+            
+            "AltUp" : ["D", "UpArrow"],
+            "AltDown" : ["C", "DownArrow"],
+            "AltLeft" : ["T", "LeftArrow"],
+            "AltRight" : ["I", "RightArrow"]
+		}
+}

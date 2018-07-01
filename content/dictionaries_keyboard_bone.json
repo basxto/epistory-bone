@@ -1,0 +1,91 @@
+﻿
+{
+    "language":"bone",
+    "dictionaries": [
+        {
+            "name":"Pattern",
+            "words": [
+                "ctie||ctie||ctie||ctie||ctie||ctie",
+                "jdua||jdua||jdua||jdua||jdua||jdua",
+                "fvüä||fvüä||fvüä||fvüä||fvüä||fvüä",
+                "rsgq||rsgq||rsgq||rsgq||rsgq||rsgq",
+                "audj||audj||audj||audj||audj||audj",
+                "eitc||eitc||eitc||eitc||eitc||eitc",
+                "dajx||dajx||dajx||dajx||dajx||dajx",
+                "qgsr||qgsr||qgsr||qgsr||qgsr||qgsr",
+                "ienr||ienr||ienr||ienr||ienr||ienr",
+                "uahl||uahl||uahl||uahl||uahl||uahl",
+                "cvnm||cvnm||cvnm||cvnm||cvnm||cvnm||",
+                "iure||iure||iure||iure||iure||iure||",
+                "äöyz||äöyz||äöyz||äöyz||äöyz||äöyz"
+            ]
+        },
+        {
+            "name":"Slide",
+            "words": [
+                "xvlcwkhgfq",
+                "ctieobnrsgq",
+                "fvüäöyz"
+            ]
+        },
+        {
+            "name":"RepeatLetter",
+            "words": [
+                "ffffffffffffffff",
+                "jjjjjjjjjjjjjjjjj",
+                "lllllllllllllll",
+                "cccccccccccccc",
+                "vvvvvvvvvvvvvv",
+                "zzzzzzzzzzzzzzzzzz",
+                "nnnnnnnnnnnnnnnnn",
+                "ssssssssssssss",
+                "hhhhhhhhhhhhhh",
+                "mmmmmmmmmmm"
+            ]
+        },
+        {
+            "name":"Letter",
+            "words": [
+                "a",
+                "b",
+                "c",
+                "d",
+                "e",
+                "f",
+                "g",
+                "h",
+                "i",
+                "j",
+                "k",
+                "l",
+                "m",
+                "n",
+                "o",
+                "p",
+                "q",
+                "r",
+                "s",
+                "t",
+                "u",
+                "v",
+                "w",
+                "x",
+                "y",
+                "z"
+            ]
+        },
+        {
+            "name":"SymmetricKeys",
+            "words": [
+                "e||n||e||n||e||n||e||n||e||n||e||n||e||n||e||n||e||n||e||n||e||n||e||n",
+                "i||r||i||r||i||r||i||r||i||r||i||r||i||r||i||r||i||r||i||r||i||r||i||r",
+                "t||s||t||s||t||s||t||s||t||s||t||s||t||s||t||s||t||s||t||s||t||s||t||s",
+                "c||g||c||g||c||g||c||g||c||g||c||g||c||g||c||g||c||g||c||g||c||g||c||g",
+                "u||l||u||l||u||l||u||l||u||l||u||l||u||l||u||l||u||l||u||l||u||l||u||l",
+                "d||m||d||m||d||m||d||m||d||m||d||m||d||m||d||m||d||m||d||m||d||m||d||m",
+                "ä||y||ä||y||ä||y||ä||y||ä||y||ä||y||ä||y||ä||y||ä||y||ä||y||ä||y||ä||y",
+                "a||h||a||h||a||h||a||h||a||h||a||h||a||h||a||h||a||h||a||h||a||h||a||h"
+            ]
+        }
+    ]
+}
